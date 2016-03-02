@@ -1,0 +1,2 @@
+HTTP_PROXY=http://squid:80
+HTTPS_PROXY=http://squid:80
